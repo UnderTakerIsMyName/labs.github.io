@@ -1,2 +1,2 @@
 # labs.github.io
-[ Личный проект ](https://github.com/UnderTakerIsMyName/labs.github.io/blob/master/sixq.rsf "Личный проект")
+[ Личный проект ](http://127.0.0.1:50029/index.html?h=768&w=1024 "Личный проект")

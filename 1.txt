@@ -1,0 +1,13 @@
+﻿@startuml
+﻿
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Съёмочная группа" as P {
+ Киносъёмочное оборудование
+Готовый фильм Съёмка фильма (Сценарий, Цензур Требование студии)
+}
+hide circle
+@enduml

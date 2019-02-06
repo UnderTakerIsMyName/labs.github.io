@@ -16,5 +16,5 @@
 ![](https://github.com/UnderTakerIsMyName/labs.github.io/blob/master/04_A3.png)  
 
 ## Лабораторная 3
-Представление блока A2 с помощью DFD:  
-![](https://github.com/UnderTakerIsMyName/labs.github.io/blob/master/03_A2.png)  
+Представление блока A1 в DFD:  
+![](https://github.com/UnderTakerIsMyName/labs.github.io/blob/master/03_A1.png)  

@@ -18,3 +18,5 @@
 ## Лабораторная 3
 Представление блока A1 в DFD:  
 ![](https://github.com/UnderTakerIsMyName/labs.github.io/blob/master/03_A1.png)  
+Используемые хранилища данных для блока A1 (DFD):  
+![](https://github.com/UnderTakerIsMyName/labs.github.io/blob/master/бд.png)  

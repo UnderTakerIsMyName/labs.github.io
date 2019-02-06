@@ -20,3 +20,9 @@
 ![](https://github.com/UnderTakerIsMyName/labs.github.io/blob/master/03_A1.png)  
 Используемые хранилища для блока A1 (DFD):  
 ![](https://github.com/UnderTakerIsMyName/labs.github.io/blob/master/бд.PNG)  
+
+## Лабораторная 4
+
+## Лабораторная 5
+
+## Лабораторная 6
